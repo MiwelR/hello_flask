@@ -1,5 +1,6 @@
 # Instalación:
-## Para instalar las dependencias, ejecutar:
+
+Para instalar las dependencias, ejecutar:
 
 ```
 pip install -r requeriments.txt
